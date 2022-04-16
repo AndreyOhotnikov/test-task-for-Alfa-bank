@@ -17,3 +17,6 @@ TS желательно, но не обязательно
 - npm start
 
 Стек: React, Redux
+
+
+https://test-task-for-alfa-bank.herokuapp.com/
