@@ -1,0 +1,35 @@
+.card{
+  display: flex;
+  padding: 15px;
+  border-radius: 30px;
+  margin-top: 15px;
+  align-items: center;
+  width: 300px;
+  height: 400px;
+  margin: 5px;
+  flex-direction: column;
+  justify-content: space-between;
+  box-shadow: 1px 1px 6px black
+}
+
+.card_content {
+  max-height: 80%;
+  display: flex;
+  justify-content: center;
+}
+
+.card_picture {
+  max-width: 100%;
+  border-radius: 10%
+}
+.card__btns{
+  width: 100%;
+  display: flex;
+  justify-content: space-between
+}
+.card_btn_icon {
+  max-width: 20px;
+  cursor: pointer;
+  margin-right: 5px
+}
+

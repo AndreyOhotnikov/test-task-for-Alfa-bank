@@ -1,0 +1,9 @@
+.sort_block {
+  display: flex;
+  align-items: center
+}
+.sort_btn {
+  cursor: pointer;
+  max-width: 50px;
+  margin-right: 5px
+}
